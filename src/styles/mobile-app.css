@@ -302,6 +302,7 @@
     justify-content: flex-start;
     flex-wrap: wrap;
     gap: 6px;
+    display: none;
   }
   .hprofile__actions .profile-actions__list {
     flex-wrap: wrap;
